@@ -1,4 +1,5 @@
 # Gunshot Detection
+A Sound Detection and Classification System
 
 ### Overview
 It is a deep-learning based sound detection and classification system focused on detecting and isolating sounds of gunshot and gunfire from the other ambient

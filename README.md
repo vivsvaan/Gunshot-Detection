@@ -8,4 +8,4 @@ The sound model would consist of an image classifier which would take a sound sa
 
 For any positive identification of a gunfire, the current location of the recording device would be sent to the pre-registered contacts and to the nearest police stations.
 
-See ![Report Here](Report.pdf)
+See [Report Here](Report.pdf)

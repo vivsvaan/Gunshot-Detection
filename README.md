@@ -7,3 +7,5 @@ environmental sounds.
 The sound model would consist of an image classifier which would take a sound sample spectrogram as an input and classify it among ambient and dangerous (gunfire) sounds. 
 
 For any positive identification of a gunfire, the current location of the recording device would be sent to the pre-registered contacts and to the nearest police stations.
+
+See ![Report Here](Report.pdf)
